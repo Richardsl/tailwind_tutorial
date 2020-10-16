@@ -1,6 +1,6 @@
 import React from "react"
-import logo from "./img/logo.svg"
-import beach_work_img from "./img/beach-work.jpg"
+import logo from "../img/logo.svg"
+import beach_work_img from "../img/beach-work.jpg"
 import { Link } from "gatsby"
 
 export default function Page2() {
